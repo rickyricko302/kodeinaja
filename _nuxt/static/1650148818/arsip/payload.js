@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/arsip", (function(a){return {data:[{data:[{slug:"cara-berkontribusi-di-kodeinaja",title:"Cara Berkontribusi di KodeInaja",createdAt:a},{slug:"supported-content",title:"Belajar Markdown",createdAt:a}],arrTahun:["2022"]}],fetch:{},mutations:void 0}}("2022-04-16T22:20:40.823Z")));
