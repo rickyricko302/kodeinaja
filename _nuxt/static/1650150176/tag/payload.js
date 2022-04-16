@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/tag", (function(a){return {data:[{posts:[{title:a,tag:["github","open-source"]}],tag:{github:[a],"open-source":[a]}}],fetch:{},mutations:void 0}}("Cara Berkontribusi di KodeInaja")));
