@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/tag/github", {data:[{posts:[{slug:"cara-berkontribusi-di-kodeinaja",description:"Halo teman-teman semua! yuk cek cara berkontribusi ke website ini.",title:"Cara Berkontribusi di KodeInaja",tag:["github","open-source"],username:"ricko-v",createdAt:"2022-04-16T23:14:16.325Z"}],kosong:false,n:1}],fetch:{},mutations:void 0});
