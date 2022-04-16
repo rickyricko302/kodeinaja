@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fkodeinaja\u002F_nuxt\u002Fstatic\u002F1650149835",layout:"default",error:a,serverRendered:true,routePath:"\u002Fp\u002Fsupported-content",config:{_app:{basePath:"\u002Fkodeinaja\u002F",assetsPath:"\u002Fkodeinaja\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"46f809d0"}}}}(null));

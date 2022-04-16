@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategori", (function(a,b,c){return {data:[{posts:[{title:a,category:[b]},{title:c,category:[b]}],kategori:{tutorial:[a,c]}}],fetch:{},mutations:void 0}}("Cara Berkontribusi di KodeInaja","tutorial","Belajar Markdown")));
