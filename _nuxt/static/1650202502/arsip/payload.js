@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/arsip", {data:[{data:[{slug:"cara-berkontribusi-di-kodeinaja",title:"Cara Berkontribusi di KodeInaja",createdAt:"2022-04-17T13:34:00.591Z"}],arrTahun:["2022"]}],fetch:{},mutations:void 0});

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kategori/tutorial", {data:[{posts:[{slug:"cara-berkontribusi-di-kodeinaja",description:"Halo teman-teman semua! yuk cek cara berkontribusi ke website ini.",title:"Cara Berkontribusi di KodeInaja",category:["tutorial"],username:"ricko-v",createdAt:"2022-04-17T13:34:00.591Z"}],kosong:false,n:1}],fetch:{},mutations:void 0});
